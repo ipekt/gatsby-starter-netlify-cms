@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: İnci Turgul
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: İnci Turgul
+subheading: Yaşam insandan insana yolculuktur
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Koçluk Nedir?
+  description: "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır
+    metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune
+    kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden
+    beri endüstri standardı sahte metinler olarak kullanılmıştır. "
+description: Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek
+  değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları
+  da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus
+  PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları
+  ile popüler olmuştur.
 intro:
   blurbs:
     - image: /img/coffee.png
