@@ -1,19 +1,14 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Hakkımda
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Ben, İnci Turgul. İzmirliyim. Evli ve 2 çocuk annesiyim. Ege Üniversitesi Tekstil Mühendisliği mezunuyum. İlgi duyduğum alanlar, deli gibi okumak, kültür-sanat gezileri ve mutfak sanatlarıdır.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Genç yaşlarda insana ve yaşama dair soruların peşine düştüğüm doğrudur. Cevapları aramak, acı-tatlı duygularla harmanlanmış bir yolculuğa dönüştüğünde artık vazgeçilmez hale gelir! Bu yolda cevaplara bir bir ulaştığımı görünce, doğru haritayı kullandığımı anlarım.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Bu arayış, onlarca seminer ve daha fazlası kitapların ışığında, beni Koçluk eğitimleri ile buluşturmuş oldu. 2012 yılında Uluslararası Erickson Koçluk Okulu’nda (Erickson International Coaching), Profesyonel Koçluk eğitimini tamamladım. Artık aradığım cevapların tümünü bulmuş muydum? Henüz yolun üzerindeki ilk kapıyı aralayıp geçmiştim; her şey yeni başlıyordu!
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Ardarda bireysel koçluk çalışmaları, her yeni kişi ile ilerlerken her seansta bir araya geldiğimiz kişi ile beraber benliğimizin bir yerlerine dokunuyor ve her defasında kendimle de tanışıyordum. Biz insanlar, her birimiz diğerinden tamamen farklı görünüyor olsa da, derinlere(değerler sistemimize) indiğimizde, pek çok aynı yanlarımızı fark ederiz. Yaradılışımızın temelinde yer alan değerler sistemini görünür kılmak, hayatımızı kolaylaştırır ve anlam kazandırır. Profesyonel Erickson Koçluğu, değerlerimizi araştırırken, yanısıra yaşamın tüm alanları ile ayrı ayrı ilgilenir ve tüm yaşam alanlarını kapsayarak bütünsel bir çerçeve içinde görmenizi sağlar.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+“Yaşamak ciddi bir eylemdir” anlayışından hareketle, yaşamında olumlu gelişmelerle, iyilik halleri ve sevgi enerjisi ile değişim ve dönüşüm arıyorsan doğru yerdesin. Koçluk çalışmalarını çok önemsiyorum, çünkü siz benim için çok değerlisiniz. Kendim de bireysel gelişim ve dönüşüm yolunda olan biri olarak, koçluk uygulamalarının tümü ile size “yol arkadaşı” olmayı çok seviyorum.
