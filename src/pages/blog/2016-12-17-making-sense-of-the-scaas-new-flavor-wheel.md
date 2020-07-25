@@ -1,33 +1,78 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Duygular, frekanslar ve sonuçları…
+date: 2020-07-25T06:49:11.255Z
+description: " "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/colton-sturgeon-6kkyyqtedwq-unsplash.jpg
 tags:
-  - flavor
-  - tasting
+  - duygular
+  - kahkaha-yogasi
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+Duygular, frekanslar ve sonuçları…
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Kendinden utanç duyan başkasını aşağılar, eziyet eder. Bu duygu durumu frekans olarak 20 Hertz de titreşir. 
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+**Sonuç**: Yok oluş.
 
-## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Suçluluk duyan kin tutar, suçlar. Bu duygu durumu frekans olarak 30 Hertz’de titreşir. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+**Sonuç**: Yıkım.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+
+Duyguları körelen insanlar; başkalarını da kınamakta ve eleştirmekte bir sakınca görmezler. Bu duygu durumu frekans olarak 50 Hertz de titreşir. 
+
+**Sonuç**: Tıkanmak ve çaresizlik.
+
+Yetersizlik duygusu hisseden kibirle örtünür. Bu duygu durumu frekans olarak 75 Hertz’de titreşir. 
+
+**Sonuç**: Keder ve pişmanlık.
+
+Korkuyla yaşayan, cezalandırır. Bu duygu durumu frekans olarak 100 Hertz de titreşir. 
+
+**Sonuç**: Daha fazla korku ve anksiyete.
+
+Doyumsuzluk, ihtiras hisseden muhtaç olur. Bu duygu durumu frekans olarak 125 Hertz’de titreşir. 
+
+**Sonuç**: Kölelik ve hayal kırıklığı.
+
+Öfke hisseden intikam peşine düşer. Bu duygu durumu frekans olarak 150 Hertz’de titreşir. 
+
+**Sonuç**: Nefret ve saldırganlık
+
+Gururlu olan talep eder ve küçümser. Bu duygu durumu frekans olarak 175 Hertz de titreşir. 
+
+**Sonuç**: Balon gibi şişmek.
+
+İzin verip, destekleyen cesaret sahibidir. Bu duygu durumu frekans olarak 200-250 Hertz’de titreşir.
+
+**Sonuç**: Özgürlük ve güç kazanmak
+
+Umutlu olan ilham vericidir. Bu duygu durumu frekans olarak 310 Hertz’de titreşir. **Sonuç**: Değişime açık olmak.
+
+Kendisiyle barışık olan uyumlu ve merhametlidir. Bu duygu durumu frekans olarak 350 Hertz de titreşir. 
+
+**Sonuç**: Affetmek ve aşmak.
+
+Anlamı gören bilgedir. Bu duygu durumu frekans olarak 400 Hertz de titreşir. **Sonuç**: Görünenin ötesini idrak etmek.
+
+Sevmek, sevilmek… Bu duygu durumu frekans olarak 500 Hertz’de titreşir. Sevginin frekansı 500’dür. Sonuç: Yaratıcı güç ve ilhamla dolmak.
+
+Bütünlüğüne kavuşan, birliği de yaşar. Bu duygu durumu frekans olarak 540 Hertz de titreşir. 
+
+**Sonuç**: Sevinç ve dinginlik bir aradadır.
+
+Tamlığı deneyimleyen mükemmelliği deneyimler. Bu duygu durumu frekans olarak 600 Hertz’de titreşir. 
+
+**Sonuç**: Aydınlanmak.
+
+Özben’i (Self i) deneyimleyen 700-1000 Hertz’de titreşir. 
+
+**Sonuç**: Saf bilinç.
+
+En yüksek frekansa (700-1000 Hertz) ulaşmış bir bilinç, düşük frekanslı 70 milyon bilinci dengeleyebilir.
+
+Bu konuda, hiç sebepsiz mutlu hissetmek için ve hatta kahkahalarla gülmek için Dr.Madan Kataria’nın oluşturduğu Kahkaha Yogası’nı uygulamak keyifli bir çözüm olarak buluştuğum bir yöntemdir. Kahkaha Yogası, özel bir sisteme sahip nefes tekniklerini içerir. Bilimseldir. Frekans yükseltmek için muhteşem bir seçenek olarak ilk adım anlamında öneririm!
