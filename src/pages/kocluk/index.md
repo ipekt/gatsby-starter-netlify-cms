@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
-path: /products
-title: Our Coffee
+path: /kocluk
+title: Koçluk
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
