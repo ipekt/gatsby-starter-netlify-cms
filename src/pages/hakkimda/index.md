@@ -1,8 +1,9 @@
 ---
 templateKey: about-page
-path: /about
+path: /hakkimda
 title: Hakkımda
 ---
+
 Ben, İnci Turgul. İzmirliyim. Evli ve 2 çocuk annesiyim. Ege Üniversitesi Tekstil Mühendisliği mezunuyum. İlgi duyduğum alanlar, deli gibi okumak, kültür-sanat gezileri ve mutfak sanatlarıdır.
 
 Genç yaşlarda insana ve yaşama dair soruların peşine düştüğüm doğrudur. Cevapları aramak, acı-tatlı duygularla harmanlanmış bir yolculuğa dönüştüğünde artık vazgeçilmez hale gelir! Bu yolda cevaplara bir bir ulaştığımı görünce, doğru haritayı kullandığımı anlarım.
