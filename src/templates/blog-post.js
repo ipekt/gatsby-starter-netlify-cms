@@ -29,8 +29,8 @@ export const BlogPostTemplate = ({
         <h1
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: "0.5rem 0 0 #6DA34D, -0.5rem 0 0 #6DA34D",
-            backgroundColor: "#6DA34D",
+            boxShadow: "0.5rem 0 0 rgb(239 0 109), -0.5rem 0 0 rgb(239 0 109)",
+            backgroundColor: "rgb(239 0 109)",
             color: "white",
             padding: "1rem",
           }}

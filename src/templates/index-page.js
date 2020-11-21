@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              '#6DA34D 0.5rem 0px 0px, #6DA34D -0.5rem 0px 0px',
-            backgroundColor: '#6DA34D',
+              'rgb(239 0 109) 0.5rem 0px 0px, rgb(239 0 109) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(239 0 109)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +53,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              '#6DA34D 0.5rem 0px 0px, #6DA34D -0.5rem 0px 0px',
-            backgroundColor: '#6DA34D',
+              'rgb(239 0 109) 0.5rem 0px 0px, rgb(239 0 109) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(239 0 109)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -70,14 +70,6 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
@@ -86,7 +78,6 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/kocluk">
@@ -101,7 +92,7 @@ export const IndexPageTemplate = ({
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                      Read more
+                      Okumaya Devam Et
                     </Link>
                   </div>
                 </div>
@@ -121,9 +112,6 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
 }
 
 const IndexPage = ({ data }) => {
@@ -173,20 +161,7 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
+   
       }
     }
   }

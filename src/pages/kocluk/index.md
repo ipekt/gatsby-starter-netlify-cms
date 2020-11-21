@@ -7,7 +7,6 @@ image: /img/faye-cornish-uq3gtiplqro-unsplash.jpg
 description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
   oluşturulan Erickson Koçluğunun temel prensipleri:"
 intro:
-  blurbs: []
   heading: NEDEN BİR PROFESYONEL KOÇ İLE ÇALIŞMALIYIZ?
   description: >-
     Dr. Zerrin Başer’in bir cümlesi ile başlamak isterim: “Eğer insansak ve
