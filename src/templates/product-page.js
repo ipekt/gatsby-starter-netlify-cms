@@ -1,9 +1,9 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Features from "../components/Features";
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 export const ProductPageTemplate = ({
   image,
@@ -11,7 +11,7 @@ export const ProductPageTemplate = ({
   heading,
   description,
   intro,
-  main
+  main,
 }) => (
   <div className="content">
     <div
@@ -25,10 +25,10 @@ export const ProductPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #6DA34D, -0.5rem 0 0 #6DA34D',
-          backgroundColor: '#6DA34D',
-          color: 'white',
-          padding: '1rem',
+          boxShadow: "0.5rem 0 0 #6DA34D, -0.5rem 0 0 #6DA34D",
+          backgroundColor: "#6DA34D",
+          color: "white",
+          padding: "1rem",
         }}
       >
         {title}
@@ -81,7 +81,7 @@ export const ProductPageTemplate = ({
       </div>
     </section>
   </div>
-)
+);
 
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -97,11 +97,11 @@ ProductPageTemplate.propTypes = {
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  })
-}
+  }),
+};
 
 const ProductPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
@@ -114,8 +114,8 @@ const ProductPage = ({ data }) => {
         main={frontmatter.main}
       />
     </Layout>
-  )
-}
+  );
+};
 
 ProductPage.propTypes = {
   data: PropTypes.shape({
@@ -123,9 +123,9 @@ ProductPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default ProductPage
+export default ProductPage;
 
 export const productPageQuery = graphql`
   query ProductPage($id: String!) {
@@ -160,7 +160,13 @@ export const productPageQuery = graphql`
           description
           image1 {
             alt
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 526, quality: 92) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
           image2 {
             alt
@@ -186,4 +192,4 @@ export const productPageQuery = graphql`
       }
     }
   }
-`
+`;
