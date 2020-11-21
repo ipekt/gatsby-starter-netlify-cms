@@ -4,61 +4,51 @@ path: /kocluk
 templateKey: product-page
 title: Koçluk
 image: /img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
+  oluşturulan Erickson Koçluğunun temel prensipleri:"
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: NEDEN BİR PROFESYONEL KOÇ İLE ÇALIŞMALIYIZ?
+  description: >-
+    Dr. Zerrin Başer’in bir cümlesi ile başlamak isterim: “Eğer insansak ve
+    nefes alıyorsak bir koçumuz olmalı.”
+
+    Koçluk, insanın iş ve özel yaşamının farklı alanlarında ulaşmak istediği sonuçlara ulaşmasını, gelişimini ve farkındalıklı yaşamasını destekleyen bir araçtır.
+
+    Koçluk aynı zamanda, insanın kendi üzerinde düşünmek için farkındalıklı, nitelikli ve kaliteli zaman ayırmasını sağlar. Bir koçla ve onun kullandığı yöntemler aracılığı ile bir konuya hiç bakmadığı bambaşka pencerelerden bakma fırsatı verir. Bu nedenle nitelikli düşünmeye zaman ayırıp kendi potansiyelini geliştirmek ve gerçekleştirmek isteyen, sentez yeteneğini ve yaratıcı potansiyelini harekete geçirmek isteyen herkesin bir koça ve bir koçla çalışmaya ihtiyacı vardır.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: KOÇ KİMDİR? KİM DEĞİLDİR?
+  description: >-
+    Günümüzde koçluk” kavram hızla yayılmakla birlikte, henüz yeterince tüm
+    kapsamı ile bilinmediği ve popüler olduğu için birçok kişi yaptığı işin
+    yanına ya da tanımına “koçluk” sıfatını kolayca ekliyor.
+
+    Öncelikle, Koç, bu alanda profesyonel olarak eğitimden geçmiş kişiye denir.
+
+    Koç, bir eğitmen değildir.
+
+    Koç, mentör değildir,
+
+    Koç, bir danışman da değildir.
+
+    Bir Koç bu alanda öğretmenlik de yapmaz.
+
+    Koçla koçluk alan kişi arasında eşit bir ilişki ve iletişim vardır. Koç bilgisini aktaran, yol gösteren, “bunu böyle yap” diyen kişi değildir. Koç, süreç uygulamalarını kullanarak kişiyi düşündüren, kendini bulduran, onun kendi başına fark etmediği birçok şeyi süreçte fark etmesi ve bulması için kişiye alan açan kişidir.
+
+    Koç, kişiye tavsiye ya da öneride bulunmaz. Ödev ya da görev de vermez. Sadece, kişinin farkındalığını canlandırıp harekete geçmesini destekler.Koçluk penceresi gelecek odaklıdır.
+
+    “Hayalleriniz, hayal olarak kalmasın!
+
+    Hayallerinizi, koçunuzla birlikte plan ve programlara dönüştürün!”
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/dmitry-bayer-bg7ayjdszte-unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/carl-newton-ix7wedkjpuy-unsplash.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/sarah-dorweiler-x2tmfd1-sga-unsplash.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -66,32 +56,9 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/ren-ran-bbiusdck8tu-unsplash.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+  heading: XXXX
+  description: XXXXX
+  plans: []
 ---
