@@ -3,7 +3,7 @@ heading: Koçluk
 path: /kocluk
 templateKey: product-page
 title: Koçluk
-image: /img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
+image: /img/faye-cornish-uq3gtiplqro-unsplash.jpg
 description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
   oluşturulan Erickson Koçluğunun temel prensipleri:"
 intro:
@@ -49,4 +49,8 @@ main:
   image3:
     alt: Coffee beans
     image: /img/sarah-dorweiler-x2tmfd1-sga-unsplash.jpg
+full_image: /img/ren-ran-bbiusdck8tu-unsplash.jpg
+pricing:
+  heading: X
+  description: X
 ---
