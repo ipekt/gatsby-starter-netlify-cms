@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Duygular, frekanslar ve sonuçları…
-date: 2020-07-25T06:49:11.255Z
+date: 2020-11-21T21:02:17.329Z
 description: " "
-featuredpost: false
+featuredpost: true
 featuredimage: /img/colton-sturgeon-6kkyyqtedwq-unsplash.jpg
 tags:
   - duygular
