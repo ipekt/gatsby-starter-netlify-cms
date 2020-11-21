@@ -1,7 +1,7 @@
 ---
 heading: Koçluk
 path: /kocluk
-templateKey: product-page
+templateKey: kocluk-page
 title: Koçluk
 image: /img/faye-cornish-uq3gtiplqro-unsplash.jpg
 description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
