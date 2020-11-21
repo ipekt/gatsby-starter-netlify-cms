@@ -1,5 +1,5 @@
 ---
-heading: Great coffee with a conscience
+heading: Koçluk
 path: /kocluk
 templateKey: product-page
 title: Koçluk
