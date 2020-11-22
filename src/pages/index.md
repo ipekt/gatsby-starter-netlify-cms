@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: İnci Turgul
-image: /img/kumiko-shimizu-djxpwvbod-y-unsplash.jpg
+image: /img/denis-agati-cmho8tk6oqq-unsplash.jpg
 heading: Neden Bir Professyonel Koç ile çalışmalıyız?
 subheading: Yaşam insandan insana yolculuktur
 mainpitch:
