@@ -42,39 +42,6 @@ export const ProductPageTemplate = ({
             <p>{description}</p>
           </div>
         </div>
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="columns">
-              <div className="column">
-                <h3 className="has-text-weight-semibold is-size-3">
-                  {main.heading}
-                </h3>
-                <p>{main.description}</p>
-              </div>
-            </div>
-            <div className="tile is-ancestor">
-              <div className="tile is-vertical">
-                <div className="tile">
-                  <div className="tile is-parent is-vertical">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image1} />
-                    </article>
-                  </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image2} />
-                    </article>
-                  </div>
-                </div>
-                <div className="tile is-parent">
-                  <article className="tile is-child">
-                    <PreviewCompatibleImage imageInfo={main.image3} />
-                  </article>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   </div>
@@ -88,9 +55,6 @@ ProductPageTemplate.propTypes = {
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
 };
 
