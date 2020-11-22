@@ -2,10 +2,10 @@
 heading: Koçluk
 path: /kocluk
 templateKey: kocluk-page
-title: Koçluk
-image: /img/faye-cornish-uq3gtiplqro-unsplash.jpg
-description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
-  oluşturulan Erickson Koçluğunun temel prensipleri:"
+pricing:
+  heading: X
+  description: X
+full_image: /img/ren-ran-bbiusdck8tu-unsplash.jpg
 intro:
   heading: NEDEN BİR PROFESYONEL KOÇ İLE ÇALIŞMALIYIZ?
   description: >-
@@ -15,6 +15,10 @@ intro:
     Koçluk, insanın iş ve özel yaşamının farklı alanlarında ulaşmak istediği sonuçlara ulaşmasını, gelişimini ve farkındalıklı yaşamasını destekleyen bir araçtır.
 
     Koçluk aynı zamanda, insanın kendi üzerinde düşünmek için farkındalıklı, nitelikli ve kaliteli zaman ayırmasını sağlar. Bir koçla ve onun kullandığı yöntemler aracılığı ile bir konuya hiç bakmadığı bambaşka pencerelerden bakma fırsatı verir. Bu nedenle nitelikli düşünmeye zaman ayırıp kendi potansiyelini geliştirmek ve gerçekleştirmek isteyen, sentez yeteneğini ve yaratıcı potansiyelini harekete geçirmek isteyen herkesin bir koça ve bir koçla çalışmaya ihtiyacı vardır.
+title: Koçluk
+image: /img/dan-smedley-vykhjziahpu-unsplash.jpg
+description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
+  oluşturulan Erickson Koçluğunun temel prensipleri:"
 main:
   heading: KOÇ KİMDİR? KİM DEĞİLDİR?
   description: >-
@@ -48,8 +52,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/sarah-dorweiler-x2tmfd1-sga-unsplash.jpg
-full_image: /img/ren-ran-bbiusdck8tu-unsplash.jpg
-pricing:
-  heading: X
-  description: X
 ---
