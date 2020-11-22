@@ -17,10 +17,6 @@ intro:
     Koçluk, insanın iş ve özel yaşamının farklı alanlarında ulaşmak istediği sonuçlara ulaşmasını, gelişimini ve farkındalıklı yaşamasını destekleyen bir araçtır.
 
     Koçluk aynı zamanda, insanın kendi üzerinde düşünmek için farkındalıklı, nitelikli ve kaliteli zaman ayırmasını sağlar. Bir koçla ve onun kullandığı yöntemler aracılığı ile bir konuya hiç bakmadığı bambaşka pencerelerden bakma fırsatı verir. Bu nedenle nitelikli düşünmeye zaman ayırıp kendi potansiyelini geliştirmek ve gerçekleştirmek isteyen, sentez yeteneğini ve yaratıcı potansiyelini harekete geçirmek isteyen herkesin bir koça ve bir koçla çalışmaya ihtiyacı vardır.
-title: Koçluk
-image: /img/dan-smedley-vykhjziahpu-unsplash.jpg
-description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
-  oluşturulan Erickson Koçluğunun temel prensipleri:"
 main:
   heading: Koç Kimdi? Kim Değildir?
   description: >-

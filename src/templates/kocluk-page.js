@@ -144,13 +144,7 @@ export const productPageQuery = graphql`
           }
           image2 {
             alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
           image3 {
             alt
