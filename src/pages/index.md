@@ -2,11 +2,11 @@
 templateKey: index-page
 title: İnci Turgul
 image: /img/kumiko-shimizu-djxpwvbod-y-unsplash.jpg
-heading: NEDEN BİR PROFESYONEL KOÇ İLE ÇALIŞMALIYIZ?
+heading: Neden Bir Professyonel Koç ile çalışmalıyız?
 subheading: Yaşam insandan insana yolculuktur
 mainpitch:
-  title: "lorem "
-  description: " ipsum"
+  title: ""
+  description: ""
 description: "Dr. Zerrin Başer’in bir cümlesi ile başlamak isterim: “Eğer
   insansak ve nefes alıyorsak bir koçumuz olmalı.” Koçluk, insanın iş ve özel
   yaşamının farklı alanlarında ulaşmak istediği sonuçlara ulaşmasını, gelişimini

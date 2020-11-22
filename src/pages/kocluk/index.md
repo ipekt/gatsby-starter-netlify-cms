@@ -5,9 +5,11 @@ templateKey: kocluk-page
 pricing:
   heading: X
   description: X
-full_image: /img/ren-ran-bbiusdck8tu-unsplash.jpg
+title: Koçluk
+image: /img/yogi.jpg
+description: ""
 intro:
-  heading: NEDEN BİR PROFESYONEL KOÇ İLE ÇALIŞMALIYIZ?
+  heading: Neden bir Professyonel Koç ile Çalışmalıyız?
   description: >-
     Dr. Zerrin Başer’in bir cümlesi ile başlamak isterim: “Eğer insansak ve
     nefes alıyorsak bir koçumuz olmalı.”
@@ -20,7 +22,7 @@ image: /img/dan-smedley-vykhjziahpu-unsplash.jpg
 description: "Dr. Milton Erickson’un terapi yöntemlerinden esinlenerek
   oluşturulan Erickson Koçluğunun temel prensipleri:"
 main:
-  heading: KOÇ KİMDİR? KİM DEĞİLDİR?
+  heading: Koç Kimdi? Kim Değildir?
   description: >-
     Günümüzde koçluk” kavram hızla yayılmakla birlikte, henüz yeterince tüm
     kapsamı ile bilinmediği ve popüler olduğu için birçok kişi yaptığı işin
